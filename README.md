@@ -1,4 +1,4 @@
-[![MasterHead] (https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8FHI/AAAAAAAAMt4/u0a1bpLskYgrwGbl1h5u25Dj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ravishchanda.io)
+[![MasterHead](https://s3.crackedcdn.com/phpimages/article/2/8/3/922283.jpg)](github.com/SIDD011)
 <h1 align="center">Hi 👋, I'm Siddhesh Sanjay Patil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd011&label=Profile%20views&color=0e75b6&style=flat" alt="sidd011" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"">
