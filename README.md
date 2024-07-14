@@ -1,4 +1,4 @@
-[![MasterHead](https://s3.crackedcdn.com/phpimages/article/2/8/3/922283.jpg)](github.com/SIDD011)
+[![MasterHead](https://media.istockphoto.com/id/1266559436/sv/foto/l%C3%A5s-icon-cybers%C3%A4kerhet-av-digitalt-skydd-f%C3%B6r-datan%C3%A4tverk-h%C3%B6ghastighetsanslutningsdataanalys.jpg?s=612x612&w=0&k=20&c=sRMzjWYjAeFSTwa7m3mnfI0VLwGxNPFg91HcoRuPKDY=)](github.com/SIDD011) 
 <h1 align="center">Hi 👋, I'm Siddhesh Sanjay Patil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd011&label=Profile%20views&color=0e75b6&style=flat" alt="sidd011" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"">
