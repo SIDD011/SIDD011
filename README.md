@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKCuyRUmzFVK2R_w4d_hrY6wGt6fJ8E22xQA&s)](github.com/SIDD011) 
+[![MasterHead](https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif)](github.com/SIDD011) 
 <h1 align="center">Hi 👋, I'm Siddhesh Sanjay Patil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd011&label=Profile%20views&color=0e75b6&style=flat" alt="sidd011" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"">
