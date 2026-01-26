@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd011&label=Profile%20views&color=0e75b6&style=flat" alt="sidd011" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"">
 
-- 🌱 I’m currently learning **Data Structures And Algorithms**
+- 🌱 I’m currently learning  about **Cybersecurity, Cloud and Devops**
 
-- 💬 Ask me about **c language ,DSA , cybersecurity**
+- 💬 Ask me about **Devops, Cloud Computing, cybersecurity**
 
 - 📫 How to reach me **psiddhesh1302@gmail.com**
 
@@ -25,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidd011&show_icons=true&locale=en" alt="sidd011" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidd011&" alt="sidd011" /></p>
